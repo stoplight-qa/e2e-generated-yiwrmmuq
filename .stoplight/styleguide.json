@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Yiwrmmuq",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjc"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjc",
+      "name": "Sleek Bronze Car",
+      "slug": "seeded-sleek-bronze-car-jgx8c",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
